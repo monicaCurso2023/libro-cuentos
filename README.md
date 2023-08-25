@@ -1,9 +1,5 @@
 # README libro-cuentos
 
-Crear un archivo con README
-
-Elegir si queremos que alguien haga algun parte en particular
-
 6 cuentos en español, su traduccion en ruso y en portugués
  - 2 de fantasia (Monica)
  - 2 ciencia ficcion (Sandra)
